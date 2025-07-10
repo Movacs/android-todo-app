@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TodoTask</string>
+    <string name="vissza">Vissza</string>
+    <string name="nevjegy">Névjegy</string>
+    <string name="informaciok">Információk</string>
+    <string name="info">Info</string>
+    <string name="todotask_applikacio">TodoTask applikáció</string>
+    <string name="verzio_1_0_0">Verzió: 1.0.0</string>
+    <string name="keszitette_kovacs_marcell">Készítette: Kovács Marcell</string>
+    <string name="uj_feladat">Új feladat</string>
+    <string name="cim">Cím</string>
+    <string name="leiras">Leírás</string>
+    <string name="prioritas_1_5">Prioritás (1-5)</string>
+    <string name="idotartam_perc">Időtartam (perc)</string>
+    <string name="mentes">Mentés</string>
+    <string name="allapot">Állapot</string>
+    <string name="szerkesztes">Szerkesztés</string>
+    <string name="kesz">Kész</string>
+    <string name="folyamatban">Folyamatban</string>
+    <string name="feladatok">Feladatok</string>
+    <string name="add_task">Add Task</string>
+    <string name="torles">Törlés</string>
+    <string name="temavaltas">Téma váltás</string>
+
+</resources>
